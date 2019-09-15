@@ -1,10 +1,10 @@
 # Collection of useful Python Scripts
 
-1. 1_Base64_Encoder_Decoder.py
+##1. 1_Base64_Encoder_Decoder.py
 
 	Encode and Decode String using Base64
 
-2. 2_mp3_metadata_tagging_automated.py
+##2. 2_mp3_metadata_tagging_automated.py
 
 	Automate metadata ID3 tagging of .mp3 files on the basis of its file name
 
